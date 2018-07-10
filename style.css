@@ -1,0 +1,91 @@
+/**
+ * WF-HomeWork1
+ **/
+
+ *{
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  #backround {
+    width: 100%;
+    Padding: 120px;
+    overflow: auto;
+    clear: both;
+    background: #626567;
+  }
+
+  body {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  
+  header {
+    padding-top:20px;
+    padding-bottom: 30px;
+    color: #333;
+    background: #FDFEFE;
+    height: 60px;
+  }
+
+  nav {
+    padding-top:20px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #FDFEFE;
+    height: 60px;
+  }
+  
+  section {
+    width: 66.6%;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #ccc;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    margin-right: -20px;
+    Height: 310px;
+    float: left;
+  }
+
+  #aside {
+    padding-top: 50px;
+    padding-bottom: 200px;
+    margin-right: 0px;
+    float: right;
+    width: 32%;
+    height: 310px;
+    background: #ccc;
+  }
+  
+  #article {
+    position: center;
+    color: white;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background: #626567;
+  }
+  
+  p {
+    color: black;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 10px;
+    margin-left: 15px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background: #ccc;
+  }
+  
+  footer {
+    padding: 20px;
+    margin-bottom: 50px;
+    clear: both;
+    background: #ccc;
+  }
